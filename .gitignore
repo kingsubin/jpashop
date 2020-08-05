@@ -17,7 +17,3 @@ rebel.xml
 # Gradle
 /build/
 .gradletasknamecache
-
-src/main/generated/
-src/main/resources/static/
-src/main/resources/templates/
